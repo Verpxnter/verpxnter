@@ -2,12 +2,12 @@
 
 I'm Verpxnter, a developer, always eager to learn and create exciting projects!
 
-![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
 - 🌱 Learning **Java, JS, Python, C**
 - 🤔 Need help with **C**
 
 Feel free to connect with me on **Discord**:
+
+[![Discord](https://img.shields.io/badge/Discord-YourDiscordTag-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/your-link)
 
 ---
 
