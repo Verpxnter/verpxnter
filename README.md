@@ -15,7 +15,8 @@ Feel free to connect with me on **Discord**:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=react)
+![C#](https://img.shields.io/badge/-C#-333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
