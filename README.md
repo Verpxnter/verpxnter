@@ -6,7 +6,7 @@ I'm Verpxnter, a developer, always eager to learn and create exciting projects!
 - 🤔 Need help with **C**
 
 Feel free to connect with me on **Discord**:
-[![Discord](https://img.shields.io/badge/Discord-Ye-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YesAR5aXzA)
+[![Discord](https://img.shields.io/badge/Discord-Verpxnter-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YesAR5aXzA)
 
 ---
 
