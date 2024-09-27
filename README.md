@@ -2,6 +2,8 @@
 
 I'm Verpxnter, a developer, always eager to learn and create exciting projects!
 
+![Coding](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+
 - 🌱 Learning **Java, JS, Python, C**
 - 🤔 Need help with **C**
 
