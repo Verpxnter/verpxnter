@@ -1,13 +1,13 @@
 # Hi there! 👋 
 
-I'm Verpxnter, a developer, always eager to learn and create exciting projects!
+I'm JadnK, a developer, always eager to learn and create exciting projects!
 
 - 🌱 Learning **Java, JS, Python, C**
 - 🤔 Need help with **C**
 
 Feel free to connect with me on **Discord**:
 
-[![Discord](https://img.shields.io/badge/Discord-Verpxnter-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YesAR5aXzA)
+[![Discord](https://img.shields.io/badge/Discord-JadnK-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YesAR5aXzA)
 
 ---
 
@@ -23,7 +23,7 @@ Feel free to connect with me on **Discord**:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=verpxnter&show_icons=true&hide=prs,issues&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadnk&show_icons=true&hide=prs,issues&theme=dark)
 
 ---
 
