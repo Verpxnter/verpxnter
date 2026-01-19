@@ -1,33 +1,47 @@
-# Hi there! 👋 
+# 👋 Hi, I'm JadnK
 
-I'm JadnK, a developer, always eager to learn and create exciting projects!
+I'm a developer with a strong interest in clean code, solid fundamentals, and continuous learning.  
+I enjoy building practical projects, exploring new technologies, and improving my understanding of how things work under the hood.
 
-- 🌱 Learning **Java, JS, Python, C**
-- 🤔 Need help with **C**
-
-Feel free to connect with me on **Discord**:
-
-[![Discord](https://img.shields.io/badge/Discord-JadnK-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YesAR5aXzA)
+🌐 **Website:** [https://jadenk.de](https://jadenk.de)
 
 ---
 
-## 🚀 Technologies & Tools I Use
+## 🧑‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+- 🌱 Currently learning **Java, JavaScript, NodeJS, and C**
+- 🧠 Focused on understanding **low-level concepts and system fundamentals**
+- 🤝 Open to collaboration, feedback, and learning from others
+- 🛠️ Interested in both backend development and tooling
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technologies
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### Tools & Platforms
+![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux)
+
+---
+
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadnk&show_icons=true&hide=prs,issues&theme=dark)
 
 ---
 
-## 🤝 Let's Connect!
+## 📬 Contact
 
-- 💬 Discord: [Verpxnter](https://discordapp.com/users/443102781537255445)
-- 🧸 Instagram: [Verpxnter](https://discordapp.com/users/443102781537255445)
+- 💬 **Instagram:** [Jaden._.701](https://www.instagram.com/jaden._.701/)
+- 🌐 **Website:** [https://jadenk.de](https://jadenk.de)
+
+---
+
+_Always learning. Always improving._
