@@ -1,47 +1,23 @@
-# 👋 Hi, I'm JadnK
+# Hi, I'm Jaden 👋
 
-I'm a developer with a strong interest in clean code, solid fundamentals, and continuous learning.  
-I enjoy building practical projects, exploring new technologies, and improving my understanding of how things work under the hood.
+I'm a developer from Germany building web apps, dashboards, and backend tools.
 
-🌐 **Website:** [https://jadenk.de](https://jadenk.de)
+## Focus
 
----
+* Web applications
+* Backend systems
+* Dashboards
+* Automation tools
 
-## 🧑‍💻 About Me
+## Tech Stack
 
-- 🌱 Currently learning **Java, JavaScript, NodeJS, and C**
-- 🧠 Focused on understanding **low-level concepts and system fundamentals**
-- 🤝 Open to collaboration, feedback, and learning from others
-- 🛠️ Interested in both backend development and tooling
+* TypeScript / JavaScript
+* Java / Spring Boot
+* HTML / CSS / Tailwind CSS
+* Python
 
----
+## Featured Work
 
-## 🛠️ Technologies
+I like building practical tools with clean interfaces and useful functionality.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-### Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-333?style=flat&logo=linux)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadnk&show_icons=true&hide=prs,issues&theme=dark)
-
----
-
-## 📬 Contact
-
-- 💬 **Instagram:** [Jaden._.701](https://www.instagram.com/jaden._.701/)
-- 🌐 **Website:** [https://jadenk.de](https://jadenk.de)
-
----
-
-_Always learning. Always improving._
+You can find my portfolio here: [jadenk.de](https://jadenk.de)
